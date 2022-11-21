@@ -1,8 +1,7 @@
 # INTERACTIVE FORM_Adan_Laura
 
-![Captura de pantalla 2022-11-02 a las 12 21 55](https://user-images.githubusercontent.com/86961241/199477434-aea3d2b0-fba4-4766-9625-3b63f8734fda.png)
-
-![Captura de pantalla 2022-11-02 a las 12 22 02](https://user-images.githubusercontent.com/86961241/199477439-adf15bb9-578d-4131-b3a9-93832f59a94a.png)
+![Captura de pantalla 2022-11-21 a las 19 29 57](https://user-images.githubusercontent.com/86961241/203132573-dad4c33c-7c98-4394-9e19-d44b77a332e4.png)
+![Captura de pantalla 2022-11-21 a las 19 30 01](https://user-images.githubusercontent.com/86961241/203132580-a9807189-2f44-417d-b641-aa4a6c5d7d0b.png)
 
 
 LINKS
